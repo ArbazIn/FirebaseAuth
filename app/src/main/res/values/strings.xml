@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FirebaseTestApp</string>
+    <string name="platform_type">Android</string>
+    <string name="token_txt">Android Token</string>
+
+    //Default Messages
+    <string name="txt_no_network">Sorry, your device couldn\'t connect (no Internet connection)!</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_cancel">CANCEL</string>
+    <string name="please_wait_txt">Please Wait..</string>
+    <string name="app_exit_message">Do you want to exit application?</string>
+    <string name="defaultTxt">--</string>
+
+
+    <string name="emailPassTxt">Email Password Method</string>
+    <string name="loginStatus">Email :</string>
+    <string name="loginStatusSignout">SignOut</string>
+    <string name="emailVerification">Email Verification :</string>
+    <string name="emailVerificationHere">Verify ?</string>
+    <string name="fireBaseId">Firebase User Id :</string>
+
+    <string name="selectLogin">Select Login</string>
+    <string name="btnEmailPass">Email &amp; Password</string>
+    <string name="btnGoogle">Gmail</string>
+
+    <string name="etEmail">Email</string>
+    <string name="etPass">Password</string>
+    <string name="or_txt">OR</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogut">Logout</string>
+    <string name="btnVerification">Verification</string>
+    <string name="tvForgotPass">Forgot Password?</string>
+    <string name="deleteAccount">Delete</string>
+    <string name="changeEmail">Change Email</string>
+    <string name="changePass">Change Password</string>
+
+    <string name="email_validation">Enter Email!</string>
+    <string name="pass_validation">Enter Password!</string>
+    <string name="pass_validation_login">Enter Password!</string>
+    <string name="pass_validation_reg">Password too short, enter minimum 6 characters!</string>
+
+
+    <string name="googleTxt">Google Login Method</string>
+    <string name="btnDisGoogle">Disconnect</string>
+
+
+</resources>
